@@ -1,28 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">An AI-ML technocrat from India</h3>
 <img align="right"alt="coding"width="400"src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47o54kajo9upol9vainptfn6egh3xdgj6rf8u4drhw&rid=giphy.gif&ct=g")
 ">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-2409&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-2409" /> </p>
-
-- 🌱 I’m currently learning **Machine learning,Deep learning**
-
-- 💬 Ask me about **Python,C++,C,MySQL**
-
-- 📫 How to reach me **ad2128@srmist.edu.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankit831004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankit831004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-singh-90796b237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-90796b237" height="30" width="40" /></a>
-<a href="https://fb.com/ankit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit singh" height="30" width="40" /></a>
-<a href="https://instagram.com/ankit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit singh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">An AI-ML technocrat from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-2409&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-2409" /> </p>
 
 - 🌱 I’m currently learning **Machine learning,Deep learning**

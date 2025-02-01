@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">An AI-ML technocrat from India</h3>
+<h3 align="center">An AI-ML technocrat </h3>
 <img align="right"alt="coding"width="400"src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47o54kajo9upol9vainptfn6egh3xdgj6rf8u4drhw&rid=giphy.gif&ct=g")
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-2409&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-2409" /> </p>
